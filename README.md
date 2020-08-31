@@ -14,7 +14,7 @@ Besides the Anaconda distribution of python, no other installation is required. 
 
 2) Project Motivation
 
-For this project, I have used StackOverFlow survey data that can be found here to explore the skills that are essential to get hired in the tech industry. 
+For this project, I have used StackOverFlow survey data that can be found here(https://www.kaggle.com/stackoverflow/so-survey-2017/data) to explore the skills that are essential to get hired in the tech industry. 
 We explored:
 1. Among education background, communication skill and tech skill, which one is the most essential skill to get hired in the tech industry.
 2. We also explored the trend in expected salary reported by people from various professional and educational background, and people working on various company.
