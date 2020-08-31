@@ -8,11 +8,11 @@ Table of Content
 4. Results
 5. Licensing and Acknowledgements
 
-Installation
+1) Installation
 
 Besides the Anaconda distribution of python, no other installation is required. The code runs with no issues with Python 3*
 
-Project Motivation
+2) Project Motivation
 
 For this project, I have used StackOverFlow survey data that can be found here to explore the skills that are essential to get hired in the tech industry. 
 We explored:
@@ -20,14 +20,14 @@ We explored:
 2. We also explored the trend in expected salary reported by people from various professional and educational background, and people working on various company.
 3. We trained a linear regression model using the data, to see if the model can predict the missing values.
 
-File Descriptions
+3) File Descriptions
 
 The notebook contains the essential code required for this project.
 
-Results
+4) Results
 
 The main results can be found in my story available here.
 
-Licensing and Acknowledgements
+5) Licensing and Acknowledgements
 
 The code can be used by anyone with proper acknowledgement to StackOverFlow.
