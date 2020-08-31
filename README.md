@@ -26,7 +26,7 @@ The notebook contains the essential code required for this project.
 
 4) Results
 
-The main results can be found in my story available here.
+The main results can be found in my story available here(https://medium.com/@anup.pandey123/these-skills-will-get-you-hired-as-a-developer-d65755b0b922).
 
 5) Licensing and Acknowledgements
 
